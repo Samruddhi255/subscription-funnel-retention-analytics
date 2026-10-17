@@ -1,0 +1,2 @@
+total_orders,delivered_orders,revenue_inr,gross_profit_before_shipping_inr,shipping_cost_inr,on_time_delivery_rate_pct,late_delivery_rate_pct,avg_actual_delivery_days
+5000,4513,95928758.49,26498814.21,477926.49,54.73,45.27,4.82

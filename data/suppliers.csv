@@ -1,0 +1,16 @@
+supplier_id,supplier_tier,supplier_city,on_time_target_pct
+SUP01,B,Bengaluru,95
+SUP02,A,Pune,95
+SUP03,B,Chennai,97
+SUP04,A,Jaipur,90
+SUP05,A,Delhi,95
+SUP06,B,Bengaluru,90
+SUP07,A,Pune,95
+SUP08,B,Delhi,97
+SUP09,B,Bengaluru,90
+SUP10,A,Delhi,95
+SUP11,C,Bengaluru,95
+SUP12,B,Delhi,90
+SUP13,A,Delhi,90
+SUP14,A,Mumbai,97
+SUP15,B,Delhi,97

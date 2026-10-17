@@ -1,0 +1,6 @@
+region,orders,revenue_inr,gross_profit_before_shipping_inr,shipping_cost_inr,avg_delivery_days,late_orders,avg_delay_days,late_rate_pct,on_time_rate_pct
+West,1262,24594085.46,6758616.02,121602.81,4.81,584,1.15,46.28,53.72
+South,1070,20719601.8,5696701.12,101940.36,4.79,494,1.14,46.17,53.83
+East,758,14396587.7,3999269.69,72854.45,4.78,341,1.18,44.99,55.01
+North,904,17516882.67,4921271.29,84388.59,4.98,405,1.2,44.8,55.2
+Central,519,9643915.45,2651172.08,49376.5,4.67,219,1.03,42.2,57.8

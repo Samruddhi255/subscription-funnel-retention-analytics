@@ -1,0 +1,4 @@
+shipping_mode,orders,revenue_inr,gross_profit_before_shipping_inr,shipping_cost_inr,avg_delivery_days,late_orders,avg_delay_days,late_rate_pct,on_time_rate_pct
+Express,1290,25958889.7,7187317.67,159470.13,3.13,587,1.17,45.5,54.5
+Standard,2780,52639221.26,14594423.19,173282.34,6.12,1258,1.15,45.25,54.75
+Same Day,443,8272962.12,2245289.34,97410.24,1.57,198,1.08,44.7,55.3
